@@ -1,0 +1,30 @@
+{
+  "row": 230,
+  "provider": "Surge",
+  "target": "https://lestallion.com/blogs/product-reviews/best-dry-erase-markers-for-office",
+  "prev": "https://ls-desk-fans-229.vercel.app/index.html",
+  "base": "https://ls-dry-erase-markers-230.surge.sh/",
+  "t1_url": "https://ls-dry-erase-markers-230.surge.sh/index.html",
+  "pages": [
+    "tip-durability.html",
+    "about.html",
+    "privacy.html",
+    "ink-visibility.html",
+    "value.html",
+    "storage-caps.html",
+    "erase-clean.html",
+    "contact.html",
+    "low-odor.html",
+    "index.html"
+  ],
+  "images": [
+    "image-8.webp",
+    "image-3.webp",
+    "image-2.webp",
+    "image-4.webp",
+    "image-5.webp",
+    "image-1.webp",
+    "image-6.webp",
+    "image-7.webp"
+  ]
+}
